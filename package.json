@@ -1,10 +1,10 @@
 {
-  "name": "eth-key-gen",
+  "name": "eth-key-generator",
   "version": "1.0.0",
   "description": "Una herramienta para generar wallets de Ethereum visualmente agradable y con explicaciones.",
   "main": "index.js",
   "bin": {
-    "eth-key-gen": "./index.js"
+    "eth-key-generator": "./index.js"
   },
   "type": "module",
   "scripts": {
@@ -15,7 +15,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/DavidZapataOh/eth-key-gen.git"
+    "url": "https://github.com/DavidZapataOh/eth-key-generator.git"
   },
   "dependencies": {
     "chalk": "^5.3.0",

@@ -1,4 +1,4 @@
-# ETH Key Gen
+# ETH Key Generator
 
 [![npm version](https://img.shields.io/npm/v/eth-key-generator.svg)](https://www.npmjs.com/package/eth-key-generator)
 [![downloads](https://img.shields.io/npm/dt/eth-key-generator.svg)](https://www.npmjs.com/package/eth-key-generator)
