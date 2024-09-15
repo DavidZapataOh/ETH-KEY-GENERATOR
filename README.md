@@ -42,9 +42,9 @@ Una herramienta interactiva para generar wallets de Ethereum visualmente agradab
 
 Puedes instalar `eth-key-generator` de manera global usando npm:
 
-\```bash
+```bash
 npm install -g eth-key-generator
-\```
+```
 
 ---
 
@@ -52,9 +52,9 @@ npm install -g eth-key-generator
 
 Una vez instalado, puedes ejecutar la herramienta desde la línea de comandos:
 
-\```bash
+```bash
 eth-key-generator
-\```
+```
 
 Sigue las instrucciones en pantalla para generar tu wallet de Ethereum.
 
@@ -64,18 +64,18 @@ Sigue las instrucciones en pantalla para generar tu wallet de Ethereum.
 
 ### Generar una Wallet Aleatoria
 
-\```bash
+```bash
 eth-key-generator
-\```
+```
 
 - Selecciona la opción **"Al azar"** cuando se te pregunte.
 - La herramienta generará una wallet nueva, mostrando cada paso del proceso.
 
 ### Generar una Wallet con Entropía Personalizada
 
-\```bash
+```bash
 eth-key-generator
-\```
+```
 
 - Selecciona la opción **"Proporcionar entropía"**.
 - Ingresa una cadena de texto que servirá como entropía adicional.
